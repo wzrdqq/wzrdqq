@@ -1,6 +1,6 @@
 [![Header](https://github.com/wzrdqq/wzrdqq/blob/main/assets/header.gif)](https://steamcommunity.com/id/wzrdqq/)
 
-### I`m a begginer programmer and game maker. You can take a look at my repositories or Red Button on steam.
+### I`m a begginer programmer and game maker. You can take a look at my repositories or Red Button on Steam.
 
 ### Languages and Tools:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
